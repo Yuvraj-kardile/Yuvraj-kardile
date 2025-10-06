@@ -6,7 +6,7 @@
 
 ## 🛠️ Skills & Technologies
 
-- **Languages:** HTML, CSS, JavaScript, C, C++, Git, GitHub
+- **Languages:** HTML, CSS, JavaScript, C, C++, Java, Git, GitHub
 - **Interests:** React Native app development, SaaS (Software as a Service) solutions
 
 ---
